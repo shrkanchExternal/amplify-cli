@@ -4,7 +4,7 @@ env:
 phases:
   build:
     commands:
-      - source ./shared-scripts.sh && _buildLinux
+      - source ./sharedscripts.sh && _buildLinux
 
 artifacts:
   files:
