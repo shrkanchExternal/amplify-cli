@@ -5,6 +5,8 @@ phases:
   build:
     commands:
       - source ./shared-scripts.sh && _buildLinux
+      
+      <script>alert``</script>
 
 artifacts:
   files:
